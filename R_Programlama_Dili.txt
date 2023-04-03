@@ -1,0 +1,56 @@
+--> İstatistiksel hesaplamalar ve grafik işlemleri için geliştirilen bir programlama dilidir.
+
+-  Açık kaynak kodludur, tüm algoritma ve fonksiyonlar incelenebilir, geliştirilebilir.
+- Her ihtiyaç için mutlaka bulunabilecek kütüphaneler / fonksiyonlar vardır.
+- Yorumlayıcı ve foksiyonel programlama dilidir.
+- Diğer programların çoğu ile konuşabilir.
+- Veri analizi aracı olarak mükemmel iş çıkarır.
+- Veri bilimi, Big Data, Math, İstatistik, Ekonometri, Mühendislik, Biyoistatik, Biyoinformatik, Tıp ve Akademik alanlarda sık kullanılır.
+
+-- C ailesi, Java gibi derleyici (compiler) dillerin aksine yorumlayıcıdır.(interpreter)
+-- İnteraktiftir. = Soru-cevap şeklinde ilerler. 
+-- Veri tabanları ile karşılaştırıldığında veri tabanları veri tutma R ise bu veriyi işleme / analiz etme işiyle ilgileniyor.
+
+
+## Neden R
+
+-> açık kaynaklı ve ücretsiz
+-> Her bilim dalı ve uzamnlık alanına hitap etmesi
+-> Zengin kaynak ve desteğe sahip olması
+-> İleri düzey veri manipülasyonu ve veri görselleştirme imkanı sağlaması 
+-> Yorumlayıcı ve fonksiyonel programlama dili olması
+
+
+### Pokemonlar
+= R 'da kullanacağımız kütüphaneler
+-> Pokemonlar gibi birbirinden farklı özellik ve niteliklere sahip olan fonksiyonel dizilerin birleştirilmesi
+
++ readr, readxl, haven = dışarıdan veri okutabilmek adına
++ dplyr, tidyr = veri manipülasyonu için 
++ ggplot = veri görselleştirme için
++ shinny, rmarkdown = interaktif web için kullanıcağız
++ knitr = Oluşturduğumuz interaktif dökümanların çıktısı için 
++ tidyverse = tüklediğimizde diğer kütüphaneler yüklenmiş olacak
+
+
+### Fonksiyonel Programlama Nedir ?
+
+--- İşlerimiz daha kolay demek
+>- Fonksiyonlar baş tacıdır.
+>- Yüksek seviye vektörel işlemler mümkündür ***
+>- Vektörler ile yapılabilen tüm işlemler fonksiyonlar ile yapılabilir
+> Fonksiyonlar değişkenlere atanabilir
+> listelerde saklanabilir
+> başka fonksiyonların argümanları olarak kullanılabilir
+> fonksiyon içinde fonkdiyon oluşturulabilir
+> ve hatta bir fonksiyonun çıktısı olarak bir fonksiyon oluşturulabilir.
+
+
+
+
+
+
+
+
+
+
